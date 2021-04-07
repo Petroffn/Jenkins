@@ -1,0 +1,14 @@
+version: "3"
+services:
+  rubyitea:
+    image:  lesson
+    environment: 
+      TEXT: "I wanna be a DevOps Enginee"
+    ports:
+      - 80:9090
+  rubyitea2:
+    image: lesson
+    environment: 
+      TEXT: "I wanna be a DevOps Enginee"
+    ports:
+      - 81:9090
