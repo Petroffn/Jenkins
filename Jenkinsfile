@@ -39,7 +39,7 @@ pipeline {
     }
     stage('Run Docker image') {
       steps{
-        sh "docker run -p8585:9090 -d mdsn/jenkins"
+        sh "docker run -p8585:9090 -d petroffn/jenkins"
 
       }
     }
