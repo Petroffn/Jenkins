@@ -1,1 +1,1 @@
-[build Status] (http://jenkins.petroffn.com/job/JenkisBuild/job/master/19/badge/icon)
+[![Build Status](http://jenkins.petroffn.com/buildStatus/icon?job=JenkisBuild%2Fmaster)](http://jenkins.petroffn.com/job/JenkisBuild/job/master/)
